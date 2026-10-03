@@ -87,7 +87,7 @@ const About = () => {
                   'Manumi.jpg',
               },
               {
-                name: 'Tavishi Balachandra',
+                name: 'T. P. Balachandra',
                 role: 'Head of Research | Frontend Developer | Devops',
                 image:
                   'Tavishi.jpg',
